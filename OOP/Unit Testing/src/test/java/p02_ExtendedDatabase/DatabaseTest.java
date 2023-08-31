@@ -15,7 +15,7 @@ public class DatabaseTest {
     public void init() throws OperationNotSupportedException {
         database = new Database(new Person(1,"Desi"),
                 new Person(2,"Maria"),
-                new Person(2,"Iva"));
+                new Person(3,"Iva"));
     }
 
     @Test(expected = OperationNotSupportedException.class)
