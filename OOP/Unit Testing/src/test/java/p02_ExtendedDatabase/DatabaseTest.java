@@ -23,7 +23,7 @@ public class DatabaseTest {
         Database database = new Database();
     }
 
-    @Test()
+    @Test
     public void TestSetElementsShouldWorkProperly()  {
 
 
