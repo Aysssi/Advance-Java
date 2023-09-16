@@ -62,13 +62,13 @@ public class Car {
     }
 
     public String drive(double distance) {
-        double tripConsumotion = distance * this.getFuelConsumptionPerKm();
+        double tripConsumption = distance * this.getFuelConsumptionPerKm();
 
-        if (this.getFuelAmount() < tripConsumotion) {
+        if (this.getFuelAmount() < tripConsumption) {
             throw new IllegalStateException("Cannot travel this distance");
         }
 
-        this.setFuelAmount(this.getFuelAmount() - tripConsumotion);
+        this.setFuelAmount(this.getFuelAmount() - tripConsumption);
         return "Have a nice trip";
     }
 
