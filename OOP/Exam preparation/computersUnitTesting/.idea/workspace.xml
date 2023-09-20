@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4d41628-d587-41ee-a78f-0dc035e6abc0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2VcNluwCdqBK1iazGxzpt2Gbqvs" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/aysel/IdeaProjects/computersUnitTesting",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ComputerManagerTests.TestValidateNullValueShouldTrowException">
+    <configuration name="ComputerManagerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Computers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="computers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="computers" />
+      <option name="MAIN_CLASS_NAME" value="computers.ComputerManagerTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerManagerTests.TestAddComputerIfDuplicateThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Computers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="computers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="computers" />
+      <option name="MAIN_CLASS_NAME" value="computers.ComputerManagerTests" />
+      <option name="METHOD_NAME" value="TestAddComputerIfDuplicateThrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerManagerTests.TestGetComputersByManufacturer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Computers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="computers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="computers" />
+      <option name="MAIN_CLASS_NAME" value="computers.ComputerManagerTests" />
+      <option name="METHOD_NAME" value="TestGetComputersByManufacturer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerManagerTests.TestNullValueShouldTrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Computers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="computers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="computers" />
+      <option name="MAIN_CLASS_NAME" value="computers.ComputerManagerTests" />
+      <option name="METHOD_NAME" value="TestNullValueShouldTrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComputerManagerTests.TestValidateNullValueShouldTrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Computers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="computers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="computers" />
+      <option name="MAIN_CLASS_NAME" value="computers.ComputerManagerTests" />
+      <option name="METHOD_NAME" value="TestValidateNullValueShouldTrowException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ComputerManagerTests.TestValidateNullValueShouldTrowException" />
+        <item itemvalue="JUnit.ComputerManagerTests" />
+        <item itemvalue="JUnit.ComputerManagerTests.TestNullValueShouldTrowException" />
+        <item itemvalue="JUnit.ComputerManagerTests.TestGetComputersByManufacturer" />
+        <item itemvalue="JUnit.ComputerManagerTests.TestAddComputerIfDuplicateThrowException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4d41628-d587-41ee-a78f-0dc035e6abc0" name="Changes" comment="" />
+      <created>1695131562812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695131562812</updated>
+    </task>
+    <servers />
+  </component>
+</project>
